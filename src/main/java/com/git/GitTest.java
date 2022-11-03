@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("4 version fix");
         System.out.println("master test");
         System.out.println("5 version fix");
+        System.out.println("pull test");        
     }
 }
