@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("2 version");
         System.out.println("3 version");
         System.out.println("4 version fix");
+        System.out.println("5 version fix");
     }
 }
